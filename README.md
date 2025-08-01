@@ -6,12 +6,13 @@
 
 - Languages: C, Python, Java, JavaScript
 - Web Development: HTML, CSS, Tailwind, Bootstrap, React
-- Databases: MongoDB, MySQL
+- Databases: MongoDB
 
 ## 📂 Projects
 
-- **Weather App** — React + OpenWeatherMap API
-- **WanderLust (Airbnb Clone)** — Node.js, Express, MongoDB
+- **Weather App** — Html, CSS , JavaScript + OpenWeatherMap API
+- **Currency Converter** - React + CurrencyAPI
+- **Todo App** - React + LocalStorage
 - Check out my portfolio for more!
 
 ## 📄 CV
